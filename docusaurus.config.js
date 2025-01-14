@@ -132,7 +132,8 @@ const config = {
         hideOnScroll: true,
         logo: {
           alt: 'Mindful Skeptic Logo',
-          src: 'img/logo.png',
+          src: 'img/logoLight.png',
+          srcDark: 'img/logoDark.png',
         },
         items: [
           // {
