@@ -131,8 +131,8 @@ const config = {
         title: 'Mindful Skeptic',
         hideOnScroll: true,
         logo: {
-          alt: 'Docusaurus Logo',
-          src: 'img/logo.svg',
+          alt: 'Mindful Skeptic Logo',
+          src: 'img/logo.png',
         },
         items: [
           // {
