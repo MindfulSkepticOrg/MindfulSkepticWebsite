@@ -189,7 +189,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. 501(c)(3) Pending`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. 501(c)(3) 99-3433788`,
       },
       prism: {
         theme: prismThemes.github,
