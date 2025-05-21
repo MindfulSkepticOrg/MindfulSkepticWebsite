@@ -67,7 +67,7 @@ const config = {
     }],
   ],
   title: 'Mindful Skeptic',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Open source healing',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -144,7 +144,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://www.mindfulskeptic.org',
+            href: 'https://github.com/MindfulSkepticInc',
             label: 'GitHub',
             position: 'right',
           },
@@ -153,25 +153,21 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          // {
+          //   title: 'Links',
+          //   items: [
+          //     {
+          //       label: 'Frequently Asked Questions',
+          //       to: '/',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Links',
+            title: 'Follow',
             items: [
               {
-                label: 'Frequently Asked Questions',
-                to: '/',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Facebook',
-                href: 'https://facebook.com',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com',
+                label: '@MindfulSkepticPrompts',
+                href: 'https://www.instagram.com/mindfulskepticprompts',
               },
             ],
           },
@@ -184,12 +180,12 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://www.mindfulskeptic.org',
+                href: 'https://github.com/MindfulSkepticInc',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. 501(c)(3) 99-3433788`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. (a 501(c)(3) nonprofit organization, EIN: 99-3433788)`,
       },
       prism: {
         theme: prismThemes.github,
