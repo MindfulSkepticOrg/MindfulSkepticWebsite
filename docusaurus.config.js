@@ -67,7 +67,7 @@ const config = {
     }],
   ],
   title: 'Mindful Skeptic',
-  tagline: 'Open source healing',
+  tagline: 'Open healing',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -166,8 +166,12 @@ const config = {
             title: 'Follow',
             items: [
               {
-                label: '@MindfulSkepticPrompts',
-                href: 'https://www.instagram.com/mindfulskepticprompts',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/MindfulSkepticInc',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@MindfulSkepticInc',
               },
             ],
           },
