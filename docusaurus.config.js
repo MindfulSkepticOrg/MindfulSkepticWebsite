@@ -166,7 +166,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Links',
             items: [
               {
                 label: 'GitHub',
@@ -178,8 +178,17 @@ const config = {
               },
             ],
           },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'IRS Nonprofit Status',
+                to: 'https://apps.irs.gov/pub/epostcard/dl/FinalLetter_99-3433788_MINDFULSKEPTICINC_01042025_00.pdf',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. (a 501(c)(3) nonprofit organization, EIN: <a href="https://apps.irs.gov/pub/epostcard/dl/FinalLetter_99-3433788_MINDFULSKEPTICINC_01042025_00.pdf" target="_blank">99-3433788</a>)`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. (a 501(c)(3) nonprofit organization)`,
       },
       prism: {
         theme: prismThemes.github,
