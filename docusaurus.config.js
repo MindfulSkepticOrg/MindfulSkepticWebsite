@@ -102,7 +102,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl: 'https://github.com/MindfulSkepticInc/MindfulSkepticWebsite',
+          // editUrl: 'https://github.com/MindfulSkepticOrg/MindfulSkepticWebsite',
         },
         blog: {
           showReadingTime: true,
@@ -143,7 +143,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
-          //   to: 'https://github.com/MindfulSkepticInc',
+          //   to: 'https://github.com/MindfulSkepticOrg',
           //   label: 'GitHub',
           //   position: 'right',
           // },
@@ -157,11 +157,11 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                to: 'https://www.instagram.com/MindfulSkepticInc',
+                to: 'https://www.instagram.com/MindfulSkepticOrg',
               },
               {
                 label: 'YouTube',
-                to: 'https://www.youtube.com/@MindfulSkepticInc',
+                to: 'https://www.youtube.com/@MindfulSkepticOrg',
               },
             ],
           },
@@ -170,7 +170,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                to: 'https://github.com/MindfulSkepticInc',
+                to: 'https://github.com/MindfulSkepticOrg',
               },
               {
                 label: 'Contact Us',
