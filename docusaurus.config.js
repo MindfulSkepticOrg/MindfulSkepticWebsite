@@ -142,11 +142,11 @@ const config = {
           //   label: 'Docs',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/MindfulSkepticInc',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   to: 'https://github.com/MindfulSkepticInc',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -157,11 +157,11 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/MindfulSkepticInc',
+                to: 'https://www.instagram.com/MindfulSkepticInc',
               },
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/@MindfulSkepticInc',
+                to: 'https://www.youtube.com/@MindfulSkepticInc',
               },
             ],
           },
@@ -170,11 +170,11 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/MindfulSkepticInc',
+                to: 'https://github.com/MindfulSkepticInc',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/MindfulSkepticInc',
+                label: 'Contact Us',
+                to: 'mailto:info@mindfulskeptic.org',
               },
             ],
           },
