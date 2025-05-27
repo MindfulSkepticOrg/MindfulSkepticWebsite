@@ -182,11 +182,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Organization',
             items: [
               {
                 label: 'IRS Nonprofit Status',
                 to: 'https://apps.irs.gov/pub/epostcard/dl/FinalLetter_99-3433788_MINDFULSKEPTICINC_01042025_00.pdf',
+              },
+              {
+                label: 'Interested in Contributing?',
+                to: 'https://contribute.mindfulskeptic.org',
               },
             ],
           },
