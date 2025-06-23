@@ -185,17 +185,17 @@ const config = {
             title: 'Organization',
             items: [
               {
-                label: 'IRS Nonprofit Status',
-                to: 'https://apps.irs.gov/pub/epostcard/dl/FinalLetter_99-3433788_MINDFULSKEPTICINC_01042025_00.pdf',
+                label: 'Contribute',
+                to: 'https://contribute.mindfulskeptic.org',
               },
               {
-                label: 'Interested in Contributing?',
-                to: 'https://contribute.mindfulskeptic.org',
+                label: 'Donate',
+                to: 'https://github.com/sponsors/MindfulSkepticOrg',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. (a 501(c)(3) nonprofit organization)`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mindful Skeptic, Inc. (a 501(c)(3) nonprofit organization, EIN 99-3433788)`,
       },
       prism: {
         theme: prismThemes.github,
